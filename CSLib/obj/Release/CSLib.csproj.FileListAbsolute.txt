@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CSLib\CSLib\bin\Release\CSLib.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CSLib\CSLib\bin\Release\CSLib.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CSLib\CSLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CSLib\CSLib\obj\Release\CSLib.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\CSLib\CSLib\obj\Release\CSLib.pdb
